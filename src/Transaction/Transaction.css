@@ -1,0 +1,9 @@
+.transaction {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+
+.transaction > h2 {
+    width: 30%;
+}

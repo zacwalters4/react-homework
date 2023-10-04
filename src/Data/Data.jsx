@@ -1,6 +1,6 @@
 const data = [
     {
-        transactionTotal: 125,
+        transactionTotal: 120,
         date: "10/3/2023"
     },
     {
@@ -8,11 +8,11 @@ const data = [
         date: "10/1/2023"
     },
     {
-        transactionTotal: 76,
+        transactionTotal: 376,
         date: "9/25/2023"
     },
     {
-        transactionTotal: 24,
+        transactionTotal: 54,
         date: "9/19/2023"
     },
     {
@@ -28,7 +28,7 @@ const data = [
         date: "9/10/2023"
     },
     {
-        transactionTotal: 93,
+        transactionTotal: 193,
         date: "9/1/2023"
     },
     {
