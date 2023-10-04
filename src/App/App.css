@@ -1,10 +1,11 @@
-.app {
+.transaction-history {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100vw;
 }
 
-.app > h1 {
+.transaction-history > h1 {
   width: 60%;
   text-align: left;
 }
