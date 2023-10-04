@@ -1,4 +1,4 @@
-export const data = [
+const data = [
     {
         transactionTotal: 125,
         date: "10/3/2023"
@@ -39,4 +39,6 @@ export const data = [
         transactionTotal: 144,
         date: "8/17/2023"
     }   
-] 
+]
+
+export { data }

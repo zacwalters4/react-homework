@@ -1,5 +1,5 @@
 // Import our newly created fake data set
-import { data } from "../Data/data"
+import { data } from "../Data/Data.jsx"
 
 // Set up a fake API call function
 export const getData = () => {
